@@ -4,7 +4,7 @@
 ## ข้อตกลงการตรวจรับ
 
 1. ทำการ Clone หรือ Download และนำขึ้น Github ของตัวเอง และส่ง URL มาในอีเมล `naruepat@thinknet.co.th`
-2. ในโฟลเดอร์ `exercise` จะต้องมี Source code และเขียนอธิบายตามหัวข้อต่างๆ ใน Readme.md ดังนี้   
+2. ในโฟลเดอร์ `exercise` จะต้องมี **Source code** และเขียนอธิบายตามหัวข้อต่างๆ ใน **Readme.md** ดังนี้   
    2.1. **Technologies** :  ลิสต์ Technology และ Library ต่างๆ พร้อมเหตุผลที่เลือกมาใช้   
    2.2. **Architecture Design** : อธิบายการออกแบบ Architecture ที่นำมาใช้   
    2.3. **Installation** : อธิบายขั้นตอนการติดตั้ง   

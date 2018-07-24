@@ -4,15 +4,15 @@
 ## ข้อตกลงการตรวจรับ
 
 1. ทำการ Clone หรือ Download และนำขึ้น Github ของตัวเอง และส่ง URL มาในอีเมล `naruepat@thinknet.co.th`
-2. ในโฟลเดอร์ `exercise` จะต้องมี Source code และ Readme.md โดยมีหัวข้อดังนี้   
+2. ในโฟลเดอร์ `exercise` จะต้องมี Source code และเขียนอธิบายตามหัวข้อต่างๆ ใน Readme.md ดังนี้   
    2.1. **Technologies** :  ลิสต์ Technology และ Library ต่างๆ พร้อมเหตุผลที่เลือกมาใช้   
    2.2. **Architecture Design** : อธิบายการออกแบบ Architecture ที่นำมาใช้   
    2.3. **Installation** : อธิบายขั้นตอนการติดตั้ง   
    2.4. **Deployment** : อธิบายว่าในแต่ละส่วนถูกนำไป Deploy ขึ้นไปที่ไหนบ้าง และเหตุผลที่เลือกใช้ พร้อมทั้งแปะ URL ของแอพพลิเคชั่น  
 
-3. Push Code ขึ้น Branch Master เป็นระยะตามความคืบหน้า
+3. Push Code ขึ้น Branch `Master` เป็นระยะตามความคืบหน้า
 4. ระหว่างวันเวลาที่กำหนด จะมีโจทย์ย่อยเพิ่มเติม โดยจะเปิดไปให้ใน Issue ของ Repo ที่ส่งมา
-5. ตรวจรับบน Public URL เท่านั้น (เช่น Heroku, Google AppEngine, Firebase, Amazon EC2, Digital Ocean เป็นต้น)
+5. ตรวจรับบน `Public URL` เท่านั้น (เช่น Heroku, Google AppEngine, Firebase, Amazon EC2, Digital Ocean เป็นต้น)
 
 ## โจทย์
 ให้พัฒนาเว็บไซต์จำลองการขายตั๋วหนัง ผ่านตู้ขายตั๋วหนังอัตโนมัติ โดยมีเงื่อนไขดังนี้
